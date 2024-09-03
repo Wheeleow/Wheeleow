@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Owen I am excited to learn more about mobile app development, I am working on developing my own android app. 
 <!--
 **Wheeleow/Wheeleow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
